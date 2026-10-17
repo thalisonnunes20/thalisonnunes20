@@ -1,7 +1,7 @@
 # Thalison Nunes
 
 🇧🇷 Brazilian
-🎂 25 Years Old
+🎂 26 Years Old
 
 ## Who am I 👨‍💻
 
