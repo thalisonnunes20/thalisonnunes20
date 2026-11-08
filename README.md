@@ -1,9 +1,9 @@
 # Thalison Nunes
 
 🇧🇷 Brazilian
-🎂 26 Years Old
+26 Years Old
 
-## Who am I 👨‍💻
+## Who am I
 
 Hi! My name is Thalison Nunes, and I am a Front-End Developer passionate about creating modern, responsive, and user-friendly web applications.
 
@@ -11,7 +11,7 @@ In addition to front-end development, I have strong experience with infrastructu
 
 I enjoy learning new technologies, improving user experiences, and creating practical solutions for real-world problems.
 
-## Technologies & Tools 🛠️
+## Technologies & Tools
 
 ### Front-End
 
@@ -29,31 +29,37 @@ I enjoy learning new technologies, improving user experiences, and creating prac
 * VS Code
 * Python
 * Node.js
+* Go
+* JavaScript
+* TypeScript
 
 ### Infrastructure
 
-* Debian 12
-* Proxmox VE
+* Debian 12/13
+* Proxmox VE (PVE)
 * Proxmox Backup Server (PBS)
-* pfSense
-* TrueNAS
-* Docker
+* pfSense / OPNsense / FortiNet
+* TrueNAS Scale / Core
+* Docker / Conteiner / Kubernets
 * Nginx
-* Nginx Proxy Manager
+* Nginx Proxy Manager / Zoraxy
 * Cloudflare
-* MariaDB
-* MySQL
-* PostgreSQL
+* MariaDB / Postgres / MySql
 * Redis
 
-## Education 🎓
+## Education
 
 **Systems Analysis and Development (TADS)**
 UniCesumar
 
-## Certifications 📜
+## Certifications
 
-**Digitech**
+**Digitech Information Technology Solutions company, FURG University in Rio Grande, Brazil, and Udemy**
 
 * IT Service Management
 * Ethical Behavior and Professional Conduct
+* Nvidia AI Fundamentals Certificate
+* PVE / PBS / Debian / Truenas
+* PfSense Firewall
+* Ticket and Service Request Management
+* Protocols, Compliance, and Regulations
